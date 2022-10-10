@@ -1,0 +1,13 @@
+Game: 
+
+    - Canvas Library: Phaser
+    - Stripped Down Mario:
+        WASD Walk
+        Jump
+        Crouch
+        Yellow boxes (coins - powerups),
+        Multiple Levels.
+        Monsters walking around that kill u. Jumping on them kills them
+
+
+        
